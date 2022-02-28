@@ -8,3 +8,4 @@ FilePath: \algorithm\binarySearchTree\buildTree.py
 copyright@ZhangQi
 '''
 import time
+import sys
